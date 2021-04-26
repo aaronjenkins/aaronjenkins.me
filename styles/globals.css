@@ -1,9 +1,15 @@
 html,
 body {
+  background-color: #688687;
+  background-image: url('/images/me.svg');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
 }
 
 a {
